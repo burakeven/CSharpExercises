@@ -1,0 +1,7 @@
+C:\Users\burak\source\repos\EventsDemo\bin\Debug\EventsDemo.exe.config
+C:\Users\burak\source\repos\EventsDemo\bin\Debug\EventsDemo.exe
+C:\Users\burak\source\repos\EventsDemo\bin\Debug\EventsDemo.pdb
+C:\Users\burak\source\repos\EventsDemo\obj\Debug\EventsDemo.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\EventsDemo\obj\Debug\EventsDemo.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\EventsDemo\obj\Debug\EventsDemo.exe
+C:\Users\burak\source\repos\EventsDemo\obj\Debug\EventsDemo.pdb

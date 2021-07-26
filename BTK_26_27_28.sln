@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Dele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{8F1980F0-E8F6-4EBD-8AE7-20767FF485D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsDemo", "..\EventsDemo\EventsDemo.csproj", "{BE5F08D3-3E70-495A-8A76-FBE391E5C531}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsDemo", "EventsDemo\EventsDemo.csproj", "{BE5F08D3-3E70-495A-8A76-FBE391E5C531}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
