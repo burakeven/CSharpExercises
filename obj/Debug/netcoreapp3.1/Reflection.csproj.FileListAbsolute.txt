@@ -1,0 +1,13 @@
+C:\Users\burak\source\repos\BTK_26_27_28\bin\Debug\netcoreapp3.1\Reflection.exe
+C:\Users\burak\source\repos\BTK_26_27_28\bin\Debug\netcoreapp3.1\Reflection.deps.json
+C:\Users\burak\source\repos\BTK_26_27_28\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.json
+C:\Users\burak\source\repos\BTK_26_27_28\bin\Debug\netcoreapp3.1\Reflection.runtimeconfig.dev.json
+C:\Users\burak\source\repos\BTK_26_27_28\bin\Debug\netcoreapp3.1\Reflection.dll
+C:\Users\burak\source\repos\BTK_26_27_28\bin\Debug\netcoreapp3.1\Reflection.pdb
+C:\Users\burak\source\repos\BTK_26_27_28\obj\Debug\netcoreapp3.1\Reflection.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\BTK_26_27_28\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\BTK_26_27_28\obj\Debug\netcoreapp3.1\Reflection.AssemblyInfo.cs
+C:\Users\burak\source\repos\BTK_26_27_28\obj\Debug\netcoreapp3.1\Reflection.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\BTK_26_27_28\obj\Debug\netcoreapp3.1\Reflection.dll
+C:\Users\burak\source\repos\BTK_26_27_28\obj\Debug\netcoreapp3.1\Reflection.pdb
+C:\Users\burak\source\repos\BTK_26_27_28\obj\Debug\netcoreapp3.1\Reflection.genruntimeconfig.cache
